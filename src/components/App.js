@@ -1,4 +1,4 @@
- import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import "../styles/App.css"
 
 const WORD_LIST = ['apple', 'banana', 'cherry', 'grape', 'orange'];
